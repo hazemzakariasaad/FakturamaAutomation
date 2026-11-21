@@ -1,0 +1,1850 @@
+[
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1055504",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1706898",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Fakturama Perspective",
+    "control_type": "Pane",
+    "automation_id": "1836276",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "8128466",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "*New Debtor",
+    "control_type": "Tab",
+    "automation_id": "989936",
+    "class_name": "SWT_Window0",
+    "rect": [
+      256,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1510294",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      1845,
+      132,
+      1891,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Minimize",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1845,
+      132,
+      1868,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Restore",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1868,
+      132,
+      1891,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New Debtor",
+    "control_type": "Pane",
+    "automation_id": "3676690",
+    "class_name": "SWT_Window0",
+    "rect": [
+      259,
+      158,
+      1894,
+      1017
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3676302",
+    "class_name": "SWT_Window0",
+    "rect": [
+      259,
+      158,
+      1894,
+      1007
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3086274",
+    "class_name": "SWT_Window0",
+    "rect": [
+      259,
+      158,
+      1894,
+      1007
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Customer ID",
+    "control_type": "Text",
+    "automation_id": "9245136",
+    "class_name": "Static",
+    "rect": [
+      332,
+      181,
+      414,
+      201
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Customer ID",
+    "control_type": "Edit",
+    "automation_id": "14356296",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      178,
+      636,
+      204
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2496008",
+    "class_name": "SWT_Window0",
+    "rect": [
+      644,
+      178,
+      1884,
+      204
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Category",
+    "control_type": "Text",
+    "automation_id": "7541224",
+    "class_name": "Static",
+    "rect": [
+      644,
+      180,
+      704,
+      200
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Category",
+    "control_type": "ComboBox",
+    "automation_id": "9374278",
+    "class_name": "SWT_Window0",
+    "rect": [
+      712,
+      178,
+      1884,
+      203
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Category",
+    "control_type": "Edit",
+    "automation_id": "4003904",
+    "class_name": "Edit",
+    "rect": [
+      714,
+      180,
+      1861,
+      201
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open",
+    "control_type": "Button",
+    "automation_id": "1710638",
+    "class_name": "Button",
+    "rect": [
+      1861,
+      180,
+      1882,
+      201
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Company",
+    "control_type": "Text",
+    "automation_id": "6685680",
+    "class_name": "Static",
+    "rect": [
+      351,
+      227,
+      414,
+      247
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Company",
+    "control_type": "Edit",
+    "automation_id": "3741220",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      214,
+      836,
+      260
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Salutation",
+    "control_type": "Text",
+    "automation_id": "5638804",
+    "class_name": "Static",
+    "rect": [
+      347,
+      274,
+      414,
+      294
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2167634",
+    "class_name": "SWT_Window0",
+    "rect": [
+      422,
+      270,
+      1884,
+      298
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ComboBox",
+    "automation_id": "2627456",
+    "class_name": "ComboBox",
+    "rect": [
+      422,
+      270,
+      552,
+      298
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Text",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      3,
+      3,
+      106,
+      25
+    ],
+    "visible": false,
+    "enabled": true
+  },
+  {
+    "name": "Open",
+    "control_type": "Button",
+    "automation_id": "DropDown",
+    "class_name": "",
+    "rect": [
+      532,
+      271,
+      551,
+      297
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "First Name Last Name",
+    "control_type": "Text",
+    "automation_id": "3937938",
+    "class_name": "Static",
+    "rect": [
+      269,
+      311,
+      414,
+      331
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "11669530",
+    "class_name": "SWT_Window0",
+    "rect": [
+      422,
+      308,
+      1884,
+      334
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Edit",
+    "automation_id": "2365654",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      308,
+      636,
+      334
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Edit",
+    "automation_id": "6099068",
+    "class_name": "Edit",
+    "rect": [
+      644,
+      308,
+      858,
+      334
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Miscellaneous",
+    "control_type": "Tab",
+    "automation_id": "4590438",
+    "class_name": "SWT_Window0",
+    "rect": [
+      269,
+      344,
+      1884,
+      987
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "5838088",
+    "class_name": "SWT_Window0",
+    "rect": [
+      271,
+      371,
+      1882,
+      985
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Web Site",
+    "control_type": "Text",
+    "automation_id": "3675798",
+    "class_name": "Static",
+    "rect": [
+      358,
+      379,
+      417,
+      399
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Web Site",
+    "control_type": "Edit",
+    "automation_id": "2889068",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      376,
+      1877,
+      402
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Supplier Number",
+    "control_type": "Text",
+    "automation_id": "8786302",
+    "class_name": "Static",
+    "rect": [
+      304,
+      410,
+      417,
+      430
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Supplier Number",
+    "control_type": "Edit",
+    "automation_id": "3676228",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      407,
+      1011,
+      433
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "GLN",
+    "control_type": "Text",
+    "automation_id": "5444366",
+    "class_name": "Static",
+    "rect": [
+      1124,
+      410,
+      1152,
+      430
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "GLN",
+    "control_type": "Edit",
+    "automation_id": "3479758",
+    "class_name": "Edit",
+    "rect": [
+      1157,
+      407,
+      1877,
+      433
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Corporate ID number",
+    "control_type": "Text",
+    "automation_id": "14615778",
+    "class_name": "Static",
+    "rect": [
+      276,
+      441,
+      417,
+      461
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Corporate ID number",
+    "control_type": "Edit",
+    "automation_id": "1907220",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      438,
+      1011,
+      464
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "WebShop user name",
+    "control_type": "Text",
+    "automation_id": "4068788",
+    "class_name": "Static",
+    "rect": [
+      1016,
+      441,
+      1152,
+      461
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "WebShop user name",
+    "control_type": "Edit",
+    "automation_id": "2169228",
+    "class_name": "Edit",
+    "rect": [
+      1157,
+      438,
+      1877,
+      464
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Alias name",
+    "control_type": "Text",
+    "automation_id": "2562436",
+    "class_name": "Static",
+    "rect": [
+      344,
+      473,
+      417,
+      493
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Alias name",
+    "control_type": "Edit",
+    "automation_id": "6490180",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      469,
+      1011,
+      497
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Birthday",
+    "control_type": "Text",
+    "automation_id": "2889848",
+    "class_name": "Static",
+    "rect": [
+      1097,
+      473,
+      1152,
+      493
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "9769024",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1157,
+      469,
+      1877,
+      497
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Edit",
+    "automation_id": "5380130",
+    "class_name": "Edit",
+    "rect": [
+      1160,
+      472,
+      1850,
+      494
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VAT Number",
+    "control_type": "Text",
+    "automation_id": "18025678",
+    "class_name": "Static",
+    "rect": [
+      334,
+      506,
+      417,
+      526
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VAT Number",
+    "control_type": "Edit",
+    "automation_id": "3802460",
+    "class_name": "Edit",
+    "rect": [
+      422,
+      502,
+      1011,
+      530
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Payment",
+    "control_type": "Text",
+    "automation_id": "10752306",
+    "class_name": "Static",
+    "rect": [
+      1096,
+      506,
+      1152,
+      526
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Payment",
+    "control_type": "ComboBox",
+    "automation_id": "10881592",
+    "class_name": "ComboBox",
+    "rect": [
+      1157,
+      502,
+      1877,
+      530
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Payment",
+    "control_type": "Text",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      3,
+      3,
+      696,
+      25
+    ],
+    "visible": false,
+    "enabled": true
+  },
+  {
+    "name": "Open",
+    "control_type": "Button",
+    "automation_id": "DropDown",
+    "class_name": "",
+    "rect": [
+      1857,
+      503,
+      1876,
+      529
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Reliability",
+    "control_type": "Text",
+    "automation_id": "4787490",
+    "class_name": "Static",
+    "rect": [
+      351,
+      539,
+      417,
+      559
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Reliability",
+    "control_type": "ComboBox",
+    "automation_id": "5051472",
+    "class_name": "ComboBox",
+    "rect": [
+      422,
+      535,
+      1011,
+      563
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Reliability",
+    "control_type": "Text",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      3,
+      3,
+      565,
+      25
+    ],
+    "visible": false,
+    "enabled": true
+  },
+  {
+    "name": "Open",
+    "control_type": "Button",
+    "automation_id": "DropDown",
+    "class_name": "",
+    "rect": [
+      991,
+      536,
+      1010,
+      562
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Discount",
+    "control_type": "Text",
+    "automation_id": "4526936",
+    "class_name": "Static",
+    "rect": [
+      1094,
+      539,
+      1152,
+      559
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Discount",
+    "control_type": "Edit",
+    "automation_id": "8654910",
+    "class_name": "Edit",
+    "rect": [
+      1157,
+      535,
+      1877,
+      563
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Net or Gross",
+    "control_type": "Text",
+    "automation_id": "3610096",
+    "class_name": "Static",
+    "rect": [
+      335,
+      572,
+      417,
+      592
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Net or Gross",
+    "control_type": "ComboBox",
+    "automation_id": "3151286",
+    "class_name": "ComboBox",
+    "rect": [
+      422,
+      568,
+      1011,
+      596
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Net or Gross",
+    "control_type": "Text",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      3,
+      3,
+      565,
+      25
+    ],
+    "visible": false,
+    "enabled": true
+  },
+  {
+    "name": "Open",
+    "control_type": "Button",
+    "automation_id": "DropDown",
+    "class_name": "",
+    "rect": [
+      991,
+      569,
+      1010,
+      595
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "use reverse charge procedure",
+    "control_type": "CheckBox",
+    "automation_id": "3545222",
+    "class_name": "Button",
+    "rect": [
+      1157,
+      572,
+      1375,
+      592
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Addresses",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      269,
+      344,
+      344,
+      368
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Miscellaneous",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      344,
+      344,
+      471,
+      368
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Notice",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      459,
+      344,
+      511,
+      368
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Can’t reach this ...",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      256,
+      131,
+      397,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "terms of payment",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      397,
+      131,
+      542,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "*New Order",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      542,
+      131,
+      648,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Bank Transfer",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      648,
+      131,
+      764,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "*New Debtor",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      764,
+      131,
+      927,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Navigation View",
+    "control_type": "Pane",
+    "automation_id": "1443346",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      252,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2036610",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      252,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "15405140",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      136,
+      247,
+      210
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Web Shop",
+    "control_type": "Text",
+    "automation_id": "7868982",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      175,
+      106,
+      201
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3736556",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      215,
+      247,
+      599
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Documents",
+    "control_type": "Text",
+    "automation_id": "3347182",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      254,
+      113,
+      280
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Products",
+    "control_type": "Text",
+    "automation_id": "1055360",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      285,
+      95,
+      311
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Creditors",
+    "control_type": "Text",
+    "automation_id": "3476534",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      316,
+      98,
+      342
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Debtors",
+    "control_type": "Text",
+    "automation_id": "4064912",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      347,
+      91,
+      373
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "terms of payment",
+    "control_type": "Text",
+    "automation_id": "7017008",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      378,
+      155,
+      404
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Shippings",
+    "control_type": "Text",
+    "automation_id": "10160666",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      409,
+      103,
+      435
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VATs",
+    "control_type": "Text",
+    "automation_id": "3411572",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      440,
+      68,
+      466
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Texts",
+    "control_type": "Text",
+    "automation_id": "4852598",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      471,
+      71,
+      497
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Lists",
+    "control_type": "Text",
+    "automation_id": "2886160",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      502,
+      66,
+      528
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Expenditure Vouchers",
+    "control_type": "Text",
+    "automation_id": "8260170",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      533,
+      180,
+      559
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Receipt Vouchers",
+    "control_type": "Text",
+    "automation_id": "12389668",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      564,
+      151,
+      590
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "10095810",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      604,
+      247,
+      709
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New product",
+    "control_type": "Text",
+    "automation_id": "2296638",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      643,
+      124,
+      669
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New Contact",
+    "control_type": "Text",
+    "automation_id": "1643838",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      674,
+      123,
+      700
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1182550",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      714,
+      247,
+      850
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "ParcelService",
+    "control_type": "Text",
+    "automation_id": "4919736",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      753,
+      124,
+      779
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "www.fakturama.info",
+    "control_type": "Text",
+    "automation_id": "1379312",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      784,
+      170,
+      810
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Calculator",
+    "control_type": "Text",
+    "automation_id": "1377624",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      815,
+      105,
+      841
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1185806",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      54,
+      1920,
+      131
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1710952",
+    "class_name": "ReBarWindow32",
+    "rect": [
+      5,
+      59,
+      1915,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1382470",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      16,
+      63,
+      178,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Get new orders and products from web shop",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      16,
+      63,
+      95,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Print/Export this document as an OpenOffice Writer document",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      95,
+      63,
+      136,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Save the current contents",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      136,
+      63,
+      178,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "2366320",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      193,
+      63,
+      365,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Order",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      193,
+      63,
+      242,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Invoice",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      242,
+      63,
+      300,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Delivery Note",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      300,
+      63,
+      365,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "4328032",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      380,
+      59,
+      712,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create a new product",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      380,
+      59,
+      442,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create a new contact",
+    "control_type": "SplitButton",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      442,
+      59,
+      529,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Expenditure",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      529,
+      59,
+      651,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Receipt Voucher",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      651,
+      59,
+      712,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1246896",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      727,
+      63,
+      1915,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the web site of the parcel service.",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      727,
+      63,
+      777,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the project web site www.fakturama.info",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      777,
+      63,
+      821,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the calculator",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      821,
+      63,
+      899,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2038204",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1897,
+      131,
+      1920,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3020846",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1897,
+      131,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "4592932",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      1897,
+      136,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1897,
+      136,
+      1920,
+      158
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "CheckBox",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1897,
+      158,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "TitleBar",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      20,
+      -6,
+      1920,
+      29
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "System",
+    "control_type": "MenuBar",
+    "automation_id": "MenuBar",
+    "class_name": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "System",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Minimize",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1740,
+      0,
+      1800,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Restore",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1800,
+      0,
+      1859,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Close",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1859,
+      0,
+      1920,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Application",
+    "control_type": "MenuBar",
+    "automation_id": "MenuBar",
+    "class_name": "",
+    "rect": [
+      0,
+      29,
+      1920,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "File",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      0,
+      29,
+      41,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Edit",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      41,
+      29,
+      85,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Data",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      85,
+      29,
+      135,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      135,
+      29,
+      183,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Extra",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      183,
+      29,
+      234,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Window",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      234,
+      29,
+      307,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Help",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      307,
+      29,
+      357,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  }
+]

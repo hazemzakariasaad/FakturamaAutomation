@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1055504",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1706898",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Fakturama Perspective",
+    "control_type": "Pane",
+    "automation_id": "1836276",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "8128466",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Documents",
+    "control_type": "Tab",
+    "automation_id": "989936",
+    "class_name": "SWT_Window0",
+    "rect": [
+      256,
+      131,
+      1897,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "8916246",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1799,
+      132,
+      1845,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "2431070",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      1799,
+      132,
+      1845,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: Order",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1799,
+      132,
+      1822,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Delete the marked entry",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1822,
+      132,
+      1845,
+      154
+    ],
+    "visible": true,
+    "enabled": false
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1510294",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      1845,
+      132,
+      1891,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Minimize",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1845,
+      132,
+      1868,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Restore",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1868,
+      132,
+      1891,
+      154
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Documents",
+    "control_type": "Pane",
+    "automation_id": "4789562",
+    "class_name": "SWT_Window0",
+    "rect": [
+      259,
+      158,
+      1894,
+      1017
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "5247228",
+    "class_name": "SWT_Window0",
+    "rect": [
+      259,
+      158,
+      1894,
+      1017
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Tree",
+    "automation_id": "2693104",
+    "class_name": "SysTreeView32",
+    "rect": [
+      261,
+      160,
+      436,
+      1015
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "---",
+    "control_type": "TreeItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      304,
+      161,
+      326,
+      184
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "---",
+    "control_type": "TreeItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      304,
+      184,
+      326,
+      207
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Orders",
+    "control_type": "TreeItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      304,
+      207,
+      352,
+      230
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "not shipped",
+    "control_type": "TreeItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      324,
+      230,
+      407,
+      253
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "shipped",
+    "control_type": "TreeItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      324,
+      253,
+      381,
+      276
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2558956",
+    "class_name": "SWT_Window0",
+    "rect": [
+      444,
+      160,
+      1892,
+      1015
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "10487572",
+    "class_name": "SWT_Window0",
+    "rect": [
+      444,
+      160,
+      1892,
+      196
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Orders",
+    "control_type": "Text",
+    "automation_id": "1513186",
+    "class_name": "Static",
+    "rect": [
+      748,
+      168,
+      804,
+      188
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1251028",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1672,
+      160,
+      1884,
+      196
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Search:",
+    "control_type": "Text",
+    "automation_id": "2889902",
+    "class_name": "Static",
+    "rect": [
+      1677,
+      168,
+      1724,
+      188
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3480294",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1729,
+      165,
+      1879,
+      191
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Edit",
+    "automation_id": "5246850",
+    "class_name": "Edit",
+    "rect": [
+      1729,
+      165,
+      1879,
+      191
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Image",
+    "automation_id": "512",
+    "class_name": "Static",
+    "rect": [
+      1731,
+      167,
+      1751,
+      189
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Image",
+    "automation_id": "256",
+    "class_name": "Static",
+    "rect": [
+      1857,
+      167,
+      1877,
+      189
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "7865470",
+    "class_name": "SWT_Window0",
+    "rect": [
+      444,
+      201,
+      1892,
+      1015
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Can’t reach this ...",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      256,
+      131,
+      397,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Documents",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      397,
+      131,
+      548,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VATs",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      536,
+      131,
+      594,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "terms of payment",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      594,
+      131,
+      739,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "PO000007",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      739,
+      131,
+      834,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Bank Transfer",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      834,
+      131,
+      950,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Northstar Office GmbH, Marta Klein",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      950,
+      131,
+      1214,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VAT 19%",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1214,
+      131,
+      1299,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Ergonomic Desk Chair",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1299,
+      131,
+      1473,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Anti-Fatigue Desk Mat",
+    "control_type": "TabItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1473,
+      131,
+      1648,
+      155
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Navigation View",
+    "control_type": "Pane",
+    "automation_id": "1443346",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      252,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2036610",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      131,
+      252,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "15405140",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      136,
+      247,
+      210
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Web Shop",
+    "control_type": "Text",
+    "automation_id": "7868982",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      175,
+      106,
+      201
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3736556",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      215,
+      247,
+      599
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Documents",
+    "control_type": "Text",
+    "automation_id": "3347182",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      254,
+      113,
+      280
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Products",
+    "control_type": "Text",
+    "automation_id": "1055360",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      285,
+      95,
+      311
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Creditors",
+    "control_type": "Text",
+    "automation_id": "3476534",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      316,
+      98,
+      342
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Debtors",
+    "control_type": "Text",
+    "automation_id": "4064912",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      347,
+      91,
+      373
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "terms of payment",
+    "control_type": "Text",
+    "automation_id": "7017008",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      378,
+      155,
+      404
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Shippings",
+    "control_type": "Text",
+    "automation_id": "10160666",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      409,
+      103,
+      435
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "VATs",
+    "control_type": "Text",
+    "automation_id": "3411572",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      440,
+      68,
+      466
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Texts",
+    "control_type": "Text",
+    "automation_id": "4852598",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      471,
+      71,
+      497
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Lists",
+    "control_type": "Text",
+    "automation_id": "2886160",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      502,
+      66,
+      528
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Expenditure Vouchers",
+    "control_type": "Text",
+    "automation_id": "8260170",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      533,
+      180,
+      559
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Receipt Vouchers",
+    "control_type": "Text",
+    "automation_id": "12389668",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      564,
+      151,
+      590
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "10095810",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      604,
+      247,
+      709
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New product",
+    "control_type": "Text",
+    "automation_id": "2296638",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      643,
+      124,
+      669
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New Contact",
+    "control_type": "Text",
+    "automation_id": "1643838",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      674,
+      123,
+      700
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1182550",
+    "class_name": "SWT_Window0",
+    "rect": [
+      5,
+      714,
+      247,
+      850
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "ParcelService",
+    "control_type": "Text",
+    "automation_id": "4919736",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      753,
+      124,
+      779
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "www.fakturama.info",
+    "control_type": "Text",
+    "automation_id": "1379312",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      784,
+      170,
+      810
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Calculator",
+    "control_type": "Text",
+    "automation_id": "1377624",
+    "class_name": "SWT_Window0",
+    "rect": [
+      11,
+      815,
+      105,
+      841
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1185806",
+    "class_name": "SWT_Window0",
+    "rect": [
+      0,
+      54,
+      1920,
+      131
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "1710952",
+    "class_name": "ReBarWindow32",
+    "rect": [
+      5,
+      59,
+      1915,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1382470",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      16,
+      63,
+      178,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Get new orders and products from web shop",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      16,
+      63,
+      95,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Print/Export this document as an OpenOffice Writer document",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      95,
+      63,
+      136,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Save the current contents",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      136,
+      63,
+      178,
+      122
+    ],
+    "visible": true,
+    "enabled": false
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "2366320",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      193,
+      63,
+      365,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Order",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      193,
+      63,
+      242,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Invoice",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      242,
+      63,
+      300,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Delivery Note",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      300,
+      63,
+      365,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "4328032",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      380,
+      59,
+      712,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create a new product",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      380,
+      59,
+      442,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create a new contact",
+    "control_type": "SplitButton",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      442,
+      59,
+      529,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Expenditure",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      529,
+      59,
+      651,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Create: New Receipt Voucher",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      651,
+      59,
+      712,
+      126
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "1246896",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      727,
+      63,
+      1915,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the web site of the parcel service.",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      727,
+      63,
+      777,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the project web site www.fakturama.info",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      777,
+      63,
+      821,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Open the calculator",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      821,
+      63,
+      899,
+      122
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "2038204",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1897,
+      131,
+      1920,
+      1020
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Pane",
+    "automation_id": "3020846",
+    "class_name": "SWT_Window0",
+    "rect": [
+      1897,
+      131,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "ToolBar",
+    "automation_id": "4592932",
+    "class_name": "ToolbarWindow32",
+    "rect": [
+      1897,
+      136,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1897,
+      136,
+      1920,
+      158
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "CheckBox",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1897,
+      158,
+      1920,
+      180
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "",
+    "control_type": "TitleBar",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      20,
+      -6,
+      1920,
+      29
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "System",
+    "control_type": "MenuBar",
+    "automation_id": "MenuBar",
+    "class_name": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "System",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Minimize",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1740,
+      0,
+      1800,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Restore",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1800,
+      0,
+      1859,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Close",
+    "control_type": "Button",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      1859,
+      0,
+      1920,
+      28
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Application",
+    "control_type": "MenuBar",
+    "automation_id": "MenuBar",
+    "class_name": "",
+    "rect": [
+      0,
+      29,
+      1920,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "File",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      0,
+      29,
+      41,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Edit",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      41,
+      29,
+      85,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Data",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      85,
+      29,
+      135,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "New",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      135,
+      29,
+      183,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Extra",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      183,
+      29,
+      234,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Window",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      234,
+      29,
+      307,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  },
+  {
+    "name": "Help",
+    "control_type": "MenuItem",
+    "automation_id": "",
+    "class_name": "",
+    "rect": [
+      307,
+      29,
+      357,
+      53
+    ],
+    "visible": true,
+    "enabled": true
+  }
+]

@@ -1,0 +1,12 @@
+# Order image + validation
+Pillow>=10,<13
+pydantic>=2,<3
+google-genai>=0.3,<2
+
+# Fakturama UI automation (Windows)
+pywinauto>=0.6.8,<0.7
+pywin32>=306
+# pywinauto also pulls comtypes and six automatically.
+
+# Unit tests (pytest; no live Fakturama)
+pytest>=8,<10
